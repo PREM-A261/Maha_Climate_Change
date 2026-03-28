@@ -98,7 +98,7 @@ The dashboard is designed in such a way that a lot of findings can be seen, but 
 	6. **Marathwada** was the subdivision, showing both highest and lowest LPAs in 51 years.
 	7. **Konkan** subdivision seem to be warming lately, in the Post-Monsoons season. On the other hand **Vidarbha** seem to be cooling early. Thus, seemingly Western Maharashtra is more humid, and Eastern Maharashtra is more dry.
 
-These were ***some*** of the insights that can be seen in the dashboard. There are lot more than these. To see them, you may locally download the dashboard yourself or [try it online.](https://app.powerbi.com/view?r=eyJrIjoiZTE1YTU5M2MtMzEzOS00MGQ2LTk4MTctYzU1NTg0NjQ5ZDY2IiwidCI6IjRjZTg1NWFkLTMzYjctNGQ5Yy1iNGJhLTU5ZWNhMjYyZGE5OSJ9&pageName=ReportSection)
+These were ***some*** of the insights that can be seen in the dashboard. There are lot more than these. To see them, you may locally download the dashboard yourself or [try it online.](https://app.powerbi.com/links/Pg4_esf10W?ctid=d1f14348-f1b5-4a09-ac99-7ebf213cbc81&pbi_source=linkShare)
 
 # List of potential KPIs
 
