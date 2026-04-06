@@ -1,4 +1,4 @@
-# Maha Climate - a climate data analysis project
+# Maha Climate - A Climate Data Analysis Project
 
 ![Logo](https://github.com/PREM-A261/Maha_Climate_Change/blob/main/images/Logo.png)
 
