@@ -124,7 +124,7 @@ Some of the potential KPIs related to this particular climate analysis are liste
 
 # Conclusions and References
 
-From the data analysis for climate data, it can be seen that -
+From the Data Analysis for climate data, it can be seen that -
 
 1. Indeed, there is a climate change seen over Maharashtra State, mainly due to rising overall temperatures.
 2. Rising temperatures have increased low pressure tendencies and overall rainfall, and there is a drastic contrast seen between Konkan and Marathwada, in terms of rainfall distribution.
