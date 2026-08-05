@@ -153,6 +153,6 @@ From the Data Analysis for climate data, it can be seen that -
 
 # Licensing
 
-This work is distributed under [CC BY-NC-SA 4.0.](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en) Data sources may have their own terms of use and is it better to communicate with IMD for any sort of commercial use of their data. Refer to data source references above.
+This work is distributed under [CC BY-NC-SA 4.0.](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en) Data sources may have their own terms of use and is it better to communicate with IMD for any sort of commercial use of their data. Refer to data source references above .
 
 
