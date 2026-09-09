@@ -8,7 +8,7 @@ Welcome to the Maha Climate Project..! This is a Power BI data analytics project
 
 # What is Climate Data Analysis ?
 
-Climate Data Analysis particularly focuses on analysing long term (like 30/50/100 years..!!) data about atmospheric parameters and discovering trends in changing atmospheric behaviour. The data about atmosphere can be be collected on ground via different measuring instruments, or it can be collected via satellites using remote sensing capabilities. Different instruments and satellites collect different types of information about atmosphere, which can have different levels of significance according to the objectives of the data collection. 
+Climate Data Analysis particularly focuses on analysing long term (like 51 years..!!) data about atmospheric parameters and discovering trends in changing atmospheric behaviour. The data about atmosphere can be be collected on ground via different measuring instruments, or it can be collected via satellites using remote sensing capabilities. Different instruments and satellites collect different types of information about atmosphere, which can have different levels of significance according to the objectives of the data collection. 
 
 This collected data is then analysed by using statistical methods and then correlated with the principles of atmospheric physics in order to predict what atmospheric events would probably occur in the long run. This process helps to understand what environmental and ecological impacts would occur and establish their risk levels to the biological entities. In short, it's an exploratory data analysis of the climate change.
 
